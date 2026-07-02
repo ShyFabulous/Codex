@@ -1,0 +1,15 @@
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# Local secrets / runtime
+.env
+*.log
+
+# Local tool repos and heavy runtimes
+Horizon/
+
+# System generated reports are useful locally; keep markdown reports, ignore caches.
+_system/**/*.tmp
+_system/**/*.cache
