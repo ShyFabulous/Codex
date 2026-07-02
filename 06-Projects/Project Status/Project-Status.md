@@ -18,6 +18,8 @@ AI Native Obsidian Knowledge Base 已开始搭建。
 - 建立 Inbox / Research / Content / Projects / Prompts / Templates / AI Memory / AI Context
 - 建立 Topic Hub 系统
 - 建立 Research Cleaner 与 Knowledge Base Audit 脚本
+- 建立 Knowledge Base Operations 运维复盘目录
+- 记录 GitHub token 认证问题和 Obsidian Git upstream 问题的原因与解决方案
 
 ## 待办事项
 
@@ -38,4 +40,4 @@ AI Native Obsidian Knowledge Base 已开始搭建。
 
 - Vault 采用本地优先，GitHub 作为同步和版本备份。
 - 不保存完整聊天记录，只保存长期有效的 Agent 记忆。
-
+- 技术故障复盘统一放入 `06-Projects/Knowledge Base Operations`，长期经验索引同步写入 `97-AI-Memory/Lessons Learned.md`。
